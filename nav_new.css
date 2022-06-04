@@ -69,7 +69,7 @@ nav input{
     display: block;
   }
   .close-btn:hover{
-    color: #2F3543;
+    color: #f2f2f2;
   }
   .wrapper .nav-links{
     position: fixed;
