@@ -50,7 +50,7 @@ nav .wrapper{
   text-underline-offset: 5px;
 }
 .wrapper .btn{
-  color: black;
+  color: #f2f2f2;
   font-size: 20px;
   cursor: pointer;
   display: none;
@@ -78,7 +78,7 @@ nav input{
     max-width: 280px;
     top: 0;
     left: -100%;
-    background:white;
+    background:#2F3543;
     display: block;
     padding: 50px 15px;
     line-height: 50px;
@@ -116,7 +116,7 @@ nav input{
     transition: all 0s ease;
   }
   .nav-links li a:hover{
-    text-decoration: underline #2F3543 2px;
+    text-decoration: underline #f2f2f2 2px;
     text-underline-offset: 5px;
   }
 }
