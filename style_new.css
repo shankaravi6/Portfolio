@@ -295,7 +295,7 @@ input[type=submit] {
   box-sizing: border-box;
   box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.2);
 }
-/* input[type=submit]:hover {
+input[type=submit]:hover {
   width: 100%;
   padding: 12px 20px;
   font-weight: 600;
@@ -303,13 +303,13 @@ input[type=submit] {
   margin: 8px 0;
   border: 2px solid #2F3543;
   border-radius: 20px;
-  color: #2F3543;
-  background-color: transparent;
+  color: #f2f2f2;
+  background-color: #2F3543;
   cursor: pointer;
   box-sizing: border-box;
   box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.2);
 }
- */
+
 
 /* Footer */
 .footer {
